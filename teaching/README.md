@@ -33,18 +33,23 @@ I am currently seeking a new challenge and would love to pass on the lessons I'v
 - March 2018 - Present
 - Digital Services Technician
 
-Help people use the libraries tech services: 3D printers, multimedia digitization stations, scanners, Raspberry Pis, Lego WeDo and Lego Mindstorms, and more.
+Help people use the libraries tech services: 3D printers, multimedia digitization stations, scanners, Raspberry Pis, BBC Micro:bits, Makey-Makeys, Lego WeDo and Lego Mindstorms, and more.
 
-1. Introduce and lead Code Clubs weekly for kids, teens, and adults
-2. Teach Intro to HTML and CSS
-3. Run Minecraft Club for 6+ year olds, set up and maintain server
-4. Help organize quarterly Maker Expo events: one for students, one for fashion, one for healthcare, one for science.
-5. Organize Processing Community Day
-6. Write web apps and AR to support teen summer programs
-7. Co-teach Text Adventure Game course, creating a collaborative text adventure webapp
-8. Teach Game Programming with Pico-8
-9. Co-teach Computer Basics for Seniors
-10. Help organize community partner events like RoboSports and Under The GUI
+1. Pivot workshops and clubs to online during the Covid-19 pandemic
+1. Write Shimmy animation tool and built workshops around it
+1. Write Moat private file sharing server
+2. Write multiple games as examples
+3. Introduce and lead Code Clubs weekly for kids, teens, and adults/seniors
+4. Lead tabletop role playing games for pre-teens
+5. Teach Intro to HTML and CSS
+6. Run Minecraft Club for 6+ year olds, set up and maintain server
+7. Help organize quarterly Maker Expo events: one for students, one for fashion, one for healthcare, one for science.
+8. Organize Processing Community Days
+9. Write web apps and AR to support teen summer reading programs
+10. Co-teach Text Adventure Game course, creating a collaborative text adventure webapp
+11. Teach Game Programming with Pico-8 (parent/child workshop)
+12. Co-teach Computer Basics for Seniors
+13. Help organize community partner events like RoboSports and Under The GUI
 
 ### British Columbia Institute of Technology
 
@@ -125,6 +130,7 @@ Co-created and co-taught web technologies and programming to design students, ta
 
 ## PRESENTATIONS
 
+1. [Temporary file sharing with Moat, Lightweight Animation with Shimmy, Advanced Markdown with HackMD, Games at the Library](https://hackmd.io/@dethe/HklTTpqWO), Four Lightning Talks in One, [Code4LibBC Unconference](https://wiki.code4lib.org/BC), 2021
 1. [Code Club for Seniors](https://drive.google.com/file/d/1B_BZrrvodFzX59YKsMWI1nnSG9TccGEH/view), Lightning Talk, [Code4LibBC Unconference](https://wiki.code4lib.org/BC), 2019
 1. [Uses of the Raspberry Pi](https://hackmd.io/@dethe/BJDPzjI3m#/), Code Club, [Richmond Public Library](https://rpl.yourlibrary.ca/), 2018
 1. [Mavo: Full Featured Websites Without Writing JavaScript](https://www.youtube.com/watch?v=8PQcOt5QOnw), Code and Coffee, [Richmond Public Library](https://rpl.yourlibrary.ca), 2017
@@ -160,6 +166,8 @@ Co-created and co-taught web technologies and programming to design students, ta
 
 ## PUBLICATIONS
 
+1. Chapter (co-author): [DuBot: An Open-Source, Low-Cost Robot for STEM and Educational Robotics](https://www.igi-global.com/book/handbook-research-using-educational-robotics/256642) (Handbook of Research on Using Educational Robotics to Facilitate Student Learning, 2021)
+1. Book Review: [How Long 'Til Black Future Month?](https://www.richmond-news.com/opinion/book-review-far-flung-journeys-in-imagination-3200313) (Richmond News, 2020-12)
 1. Paper (co-author): [Designing Participedia: A Collaborative Research Platform](https://dl.acm.org/doi/10.1145/3384772.3385125) (PDC '20: Proceedings of the 16th Participatory Design Conference 2020 - Participation(s) Otherwise - Volume 2, 2020-06)
 2. Book Review: [The Water Knife by Paolo Bacigalupi](https://www.richmond-news.com/opinion/columnists/book-review-when-the-water-is-gone-1.24114675) (Richmond News, 2020-04)
 3. Book Review: [Strange Practice by Vivian Shaw](https://www.richmond-news.com/opinion/columnists/book-review-who-will-protect-the-monsters-from-us-1.24098427) (Richmond News, 2020-03)
@@ -176,8 +184,28 @@ Co-created and co-taught web technologies and programming to design students, ta
 14. Python Cookbook 2nd Ed.: Building a Python Cocoa GUI Programatically (O'Reilly, 2005-03)
 15. [Browser Evolution: Document Access on the World Wide Web](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.4.4604) (Master's Thesis 1998-03)
 
+## Video Tutorials
+
+1. [Digital Flipbook Animation, episode 1: Introduction to Shimmy](https://www.youtube.com/watch?v=aXLKQ-NJnNc) 2021-01
+1. [Digital Flipbook Animation, episode 2: Principles of Animation](https://www.youtube.com/watch?v=mL-BImzZp1c) 2021-01
+1. [Digital Flipbook Animation, episode 3: Animation Tips and Tricks](https://www.youtube.com/watch?v=_hPZOCObSPc) 2021-02
+1. [Programming for Fun with Scratch, episode 1](https://www.youtube.com/watch?v=_5iFGSuHpxw) Intro to Scratch, implement Pong, how to make sprites jump, 2021-02
+1. [Programming for Fun with Scratch, episode 2](https://www.youtube.com/watch?v=eScqOJzMXtQ) Build a platformer game and import custom graphics, 2021-03
+1. [Programming for Fun with Scratch, episode 3](https://www.youtube.com/watch?v=cUoowj1Rang) Build a story game and incorporate sound in our games, 2021-03
+1. [Programming for Fun with Scratch, episode 4](https://www.youtube.com/watch?v=r4R1okNGo9k) Discuss simulations, build Langton's Ant, look more closely at custom blocks, 2021-03
+1. [Programming for Fun with Scratch, episode 5](https://www.youtube.com/watch?v=llXkuqEiIEM) Build basis of a top-down adventure game, use the Music extension to play notes, extend it to play chords, 2021-04
+1. [Programming for Fun with Scratch, episode 6](https://www.youtube.com/watch?v=5g6DDfoPALI) Build Asteroids and look at advanced movement techniques, 2021-04
+1. [Kids can play tabletop games online, episode 1](https://www.youtube.com/watch?v=lygWjj8u3kw) Getting started with tabletop role-playing games for free or cheap, 2021-03
+1. [Kids can play tabletop games online, episdoe 2](https://www.youtube.com/watch?v=bVbd2AlWz5A) Online privacy and safety for kids 9-12, 2021-03
+2. [Kids can play tabletop games online, episode 3](https://www.youtube.com/watch?v=oFCPyWb_448) Role-playing games that are fun for kids 4 and up, and the whole family, 2021-03
+1. [Kids can play tabletop games online, episode 4](https://www.youtube.com/watch?v=QjNMstIr5eI) Resources to help run a game without a lot of preparation, 2021-04
+1. [Kids can play tabletop games online, episode 5](https://www.youtube.com/watch?v=5fY2S7Qe_wc) How to use pre-written modules and other resources to get started quickly, 2021-04
+1. [At your library you can...  ...write a pick-your-path adventure!](https://www.youtube.com/watch?v=PVogMgROIBc) 2021-04
+
 ## PROJECTS
 
+1. [Waterbear Next](https://github.com/waterbearlang/waterbearnext/) Re-working of Waterbear visual programming language to fix long-standing issues: 2020 (very preliminatry, ongoing)
+1. [Moonshine](https://github.com/waterbearlang/moonshine/) Text language for visual programming: 2020 (very preliminatry, ongoing)
 1. [Bloc](https://github.com/dethe/bloc) Improved (esp. for mobile) version of minimal block language used in 500 Lines book: 2020
 1. [Sketchdance: Shimmy](https://glitch.com/~sd-shimmy) Simple animation tool for children: 2020
 1. [Sketchdance: Moat](https://glitch.com/~sd-moat) Secure file sharing for library programs: 2019
