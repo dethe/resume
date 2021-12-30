@@ -286,7 +286,7 @@ Integrated XML-based collaboration technology (Distributed DOM) into existing xf
 ## PRESENTATIONS
 
 1. [Building a community around open source](https://docs.google.com/document/d/13avB9KwPONn5wQthJRREjQDVsbDZQPPlNpsti3K6ATU/edit?usp=sharing), Facilitator for discussion, [Code4LibBC Unconference](https://wiki.code4lib.org/BC), 2020
-1. [Temporary file sharing with Moat, Lightweight animation with Shimmy, Advanced markdown with HackMD, Games at the Library], Lightning Talk, [Code4LibBC Unconference](https://wiki.code4lib.org/BC), 2020
+1. [Temporary file sharing with Moat, Lightweight animation with Shimmy, Advanced markdown with HackMD, Games at the Library](https://hackmd.io/@dethe/HklTTpqWO#/), Lightning Talk, [Code4LibBC Unconference](https://wiki.code4lib.org/BC), 2020
 1. [Code Club for Seniors](https://drive.google.com/file/d/1B_BZrrvodFzX59YKsMWI1nnSG9TccGEH/view), Lightning Talk, [Code4LibBC Unconference](https://wiki.code4lib.org/BC), 2019
 1. [Uses of the Raspberry Pi](https://hackmd.io/@dethe/BJDPzjI3m#/), Code Club, [Richmond Public Library](https://rpl.yourlibrary.ca/), 2018
 1. [Mavo: Full Featured Websites Without Writing JavaScript](https://www.youtube.com/watch?v=8PQcOt5QOnw), Code and Coffee, [Richmond Public Library](https://rpl.yourlibrary.ca), 2017
@@ -324,7 +324,7 @@ Integrated XML-based collaboration technology (Distributed DOM) into existing xf
 
 1. Book Review: [The Water Knife by Paolo Bacigalupi](https://www.richmond-news.com/opinion/columnists/book-review-when-the-water-is-gone-1.24114675) (Richmond News, 2020-04)
 1. Book Review: [Strange Practice by Vivian Shaw](https://www.richmond-news.com/opinion/columnists/book-review-who-will-protect-the-monsters-from-us-1.24098427) (Richmond News, 2020-03)
-1. Book Review: [Every Heart a Doorway by Seanan McGuire[(https://www.richmond-news.com/opinion/columnists/book-review-not-all-wardrobes-lead-to-narnia-1.24066989) (Richmond News, 2020-02)
+1. Book Review: [Every Heart a Doorway by Seanan McGuire](https://www.richmond-news.com/opinion/columnists/book-review-not-all-wardrobes-lead-to-narnia-1.24066989) (Richmond News, 2020-02)
 1. Book Review: [Meddling Kids by Edgar Cantero](https://www.richmond-news.com/opinion/columnists/book-review-struggles-of-child-detectives-1.24039994), (Richmond News, 209-12)
 1. Book Review: [Trail of Lightning by Rebecca Roanhorse](https://www.richmond-news.com/opinion/columnists/book-review-the-one-person-monsters-are-scared-of-1.24002372), (Richmond News, 2019-11)
 1. Blockcode (chapter): Architecture of Open Source, Vol. 3 ([AOSA Books](http://aosabook.org), 2016)
