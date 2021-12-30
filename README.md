@@ -3,15 +3,27 @@
 - dethe@livingcode.org
 - Vancouver, BC, Canada
 - [GitHub](https://github.com/dethe/)
-- [Blog](http://livingcode.org/)
-- [Twitter](https://twitter.com/dethe)
 - [Waterbear](http://waterbearlang.com/)
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-4422-5928" href="https://orcid.org/0000-0002-4422-5928" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-4422-5928</a></div>
 
+## Goal
+
+To work at the intersection of learning and tech, helping people to use, rather than be used by, computers and technology.
+
 ## Summary
 
-I have been programming for the web as long as there has been a web, using AJAX-style dynamic loading since 1998, and pushing boundaries of the browsers and my own creativity at every opportunity. I've worked for large corporations and two-person startups. After resisting becoming a manager for years, I surprised myself by being good at it and enjoying it. Programming is like an infinite box of Legos you can build anything with, and I thrive on introducing others to this world and mentoring other developers. I also enjoy building communities and making connections with different groups who can support each other to build great things.
+Overall, my career has been balanced between technology and communication, often in leadership roles. I am very good at communicating technology issues in non-technical terms and teaching complex concepts.
+
+I introduced and taught a class in Web Design in 1996 through Ohio University's Continuing Education program. In 1997 I was a monthly guest on WOUB, the univerity radio station, on the Art of Conversation show, where I would explain technical issues in plain language. From 2000 to 2002 I taught Intro to XML and XML Programming in the University of British Columbia's certificate program.
+
+I have mentored for Ladies Learning Code and Mozilla's Software Carpentry. I co-taught (with Amber Frid-Jimenez) The Web as a Medium of Expression, a course we introduced at Emily Carr University to introduce design students to programming, and where we introduced them to HTML, CSS, SVG, and JavaScript and took them through to building interative visualizations pulling down data from the web by the end of the term.
+
+For three terms I have mentored 3-10 students per term with Undergraduate Capstone Open Source Projects, with the students working on Waterbear, an open source project I lead to make it easier to learn programming. This is an intensive program with weekly reports and meetings, where the students are expected to put in at least 10 hours a week filing and fixing bugs, implementing new features, and working on a larger term project.
+
+I am the co-host and organizer for the Maker Education Salon, a partnership between Vancouver Maker Faire and Mozilla Hive, which brings educators, librarians, parents, community organizers, makers, and kids together on a quarterly basis, with an annual "Pop-Up" event. This helps all the local folks involved in making and education to learn about each other and build connections.
+
+I enjoy new challenges and love to pass on the lessons I've learned from 20+ years in the tech industry, working for companies large and small.
 
 ## Experience
 
@@ -21,18 +33,23 @@ I have been programming for the web as long as there has been a web, using AJAX-
 - March 2018 - Present
 - Digital Services Technician
 
-Help people use the libraries tech services: 3D printers, multimedia digitization stations, scanners, Raspberry Pis, Lego WeDo and Lego Mindstorms, and more.
+Help people use the libraries tech services: 3D printers, multimedia digitization stations, scanners, Raspberry Pis, BBC Micro:bits, Makey-Makeys, Lego WeDo and Lego Mindstorms, and more. Teach kids to make their own computer games. Run games that teach cooperation and teamwork.
 
-1. Introduce and lead Code Clubs weekly for kids, teens, and adults
-2. Teach Intro to HTML and CSS
-3. Run Minecraft Club for 6+ year olds, set up and maintain server
-4. Help organize quarterly Maker Expo events: one for students, one for fashion, one for healthcare, one for science.
-5. Organize Processing Community Day
-6. Write web apps and AR to support teen summer programs
-7. Co-teach Text Adventure Game course, creating a collaborative text adventure webapp
-8. Teach Game Programming with Pico-8
-9. Co-teach Computer Basics for Seniors
-10. Help organize community partner events like RoboSports and Under The GUI
+1. Pivot workshops and clubs to online during the Covid-19 pandemic
+1. Write Shimmy animation tool and built workshops around it
+1. Write Moat private file sharing server
+1. Write multiple games as examples
+1. Introduce and lead Code Clubs weekly for kids, teens, and adults/seniors
+1. Lead tabletop role playing games for pre-teens
+1. Teach Intro to HTML and CSS
+1. Run Minecraft Club for 6+ year olds, set up and maintain server
+1. Help organize quarterly Maker Expo events: one for students, one for fashion, one for healthcare, one for science.
+1. Organize Processing Community Days
+1. Write web apps and AR to support teen summer reading programs
+1. Co-teach Text Adventure Game course, creating a collaborative text adventure webapp
+1. Teach Game Programming with Pico-8 (parent/child workshop)
+1. Co-teach Computer Basics for Seniors
+1. Help organize community partner events like RoboSports and Under The GUI
 
 ### British Columbia Institute of Technology
 
@@ -43,6 +60,7 @@ Help people use the libraries tech services: 3D printers, multimedia digitizatio
 Teach Management Information Systems to both full-time and part-time classes.
 
 1. Built lab exercises based on real-world databases, networks, security issues
+2. Teach Excel and database programming
 
 ### Participedia
 
@@ -53,9 +71,20 @@ Teach Management Information Systems to both full-time and part-time classes.
 Team lead and back-end specialist for building 3rd version of this academic collaborative website tracking democratic participation around the world.
 
 1. Move database from document-store to Postgres relational DB
-2. Re-implemented full-text search
+2. Re-implemented full-text search to instrument for multilingual support
 3. Mentoring for junior developers
 4. Technical advising for other aspects of project (online surveys, data respository, etc.)
+
+### Modern Jive Vancouver
+
+- Vancouver, BC
+- February 2017 - Present
+- Instructor
+
+Teach introductory and intermediate partner dancing to groups of 20-50.
+
+1. Class management with many new drop-in students each week
+1. Lesson planning
 
 ### Eventsage
 
@@ -94,11 +123,23 @@ Front-end development for the [Marketplace](https://marketplace.firefox.com/) te
 2. Built Hub add-on for Firefox Android to add Marketplace to home screen
 3. Collaborated on the first [Vancouver Mozilla Hive Network Pop-Up](http://www.meetup.com/Vancouver-Maker-Education-Meetup/events/208146122/)
 
+### Emily Carr University of Art + Design
+
+- Vancouver, BC
+- September 2013 - December 2013
+- Co-instructor (external)
+
+Co-created and co-taught web technologies and programming to design students, taking them through to creating interactive presentations that pulled live data from the web.
+
+1. Designed all technical presentations (my co-instructor, Amber Frid-Jimenez, built all design-oriented presentations and content).
+1. Created homework projects
+1. Built libraries to make some of the programming exercises more achievable given the constraints a single term
+
 ### Mozilla Foundation
 
 - Vancouver, BC
 - August 2012 - December 2013
-- Developer
+- Development Lead
 
 Take Collusion prototype through design, development and launch as [Lightbeam 1.0](https://addons.mozilla.org/en-US/firefox/addon/lightbeam/)
 
@@ -108,6 +149,8 @@ Take Collusion prototype through design, development and launch as [Lightbeam 1.
 4. Co-taught course at Emily Carr University introducing design students to web technologies
 5. Mentored students working on Waterbear as part of Undergraduate Capstone Open Source Projects
 6. Mentored for Ladies Learning Code and Software Carpentry workshops
+7. Presented at 2 Mozfest conferences
+8. Support Trifeca Hackathon for Interactive Documentaries
 
 ### Reelhouse
 
@@ -141,6 +184,9 @@ Manage small development team to build photo sharing site Kinzin.com
 
 Integrated XML-based collaboration technology (Distributed DOM) into existing xfy XML toolset.
 
+1. Collaborate with Tokyo-based team
+2. Wrapped Xmetal ActiveX component with a full web-based interface
+
 ### BlastRadius
 
 - Vancouver, BC
@@ -153,7 +199,7 @@ Integrated XML-based collaboration technology (Distributed DOM) into existing xf
 - March 2001 - March 2002
 - Chief Mad Scientist
 
-1. Founding member of company sold for \$2.35 million
+1. Founding member of company sold for $2.35 million
 2. Design and implement client-side GUI development library (Vorta)
 3. Design and implement client-server shared Document Object Model (DDOM)
 4. Design of XML content management appliance
@@ -161,6 +207,8 @@ Integrated XML-based collaboration technology (Distributed DOM) into existing xf
 6. Explore new tools, programming patterns, and integration strategies
 7. Create new project management tool for Distributed Agile Software Development
 8. Extend existing tools with new support for XML, such as adding XPath support to Zope
+9. Wrote successful grant for BC Science Council
+10. Use Xpath for CSS styling selectors
 
 ### University of British Columbia Continuing Studies
 
@@ -190,6 +238,7 @@ Integrated XML-based collaboration technology (Distributed DOM) into existing xf
 1. Design and implement server-side Java web applications
 2. Develop e-commerce framework
 3. Supervise and mentor junior developers
+4. Built out multi-site testing framework
 
 ### Lucent Technologies
 
@@ -200,26 +249,22 @@ Integrated XML-based collaboration technology (Distributed DOM) into existing xf
 1. Develop software for managing telephone switches (NetMinder)
 2. Document and test Netminder software
 3. Review code of other developers
+4. Mentor developers in Java
 
 ### Communication Network Services, Ohio University
 
 - Athens, Ohio
-- August 1996 - March 1998
+- September 1995 - March 1998
 - Network Software Specialist
 
 1. Provide university-wide network support for Macintosh platform
 2. Develop software for dial-up, residential, administrative and faculty networks
 3. Train student workers
-
-### Communication Network Services, Ohio University
-
-- Athens, Ohio
-- September 1995 - August 1996
-- Graduate Assistant
-
-1. Create Macintosh installation software
-2. Provide telephone support
-3. Document internet dial-up connection service
+4. Create Macintosh installation software
+5. Provide telephone support
+6. Document internet dial-up connection service
+7. Program banks of dial-up modems
+8. Part of team rolling out etherenet campus-wide and off-campus
 
 ### Continuing Education Studies, Ohio University
 
@@ -240,42 +285,43 @@ Integrated XML-based collaboration technology (Distributed DOM) into existing xf
 
 ## PRESENTATIONS
 
+1. [Building a community around open source](https://docs.google.com/document/d/13avB9KwPONn5wQthJRREjQDVsbDZQPPlNpsti3K6ATU/edit?usp=sharing), Facilitator for discussion, [Code4LibBC Unconference](https://wiki.code4lib.org/BC), 2020
+1. [Temporary file sharing with Moat, Lightweight animation with Shimmy, Advanced markdown with HackMD, Games at the Library], Lightning Talk, [Code4LibBC Unconference](https://wiki.code4lib.org/BC), 2020
 1. [Code Club for Seniors](https://drive.google.com/file/d/1B_BZrrvodFzX59YKsMWI1nnSG9TccGEH/view), Lightning Talk, [Code4LibBC Unconference](https://wiki.code4lib.org/BC), 2019
-2. [Uses of the Raspberry Pi](https://hackmd.io/@dethe/BJDPzjI3m#/), Code Club, [Richmond Public Library](https://rpl.yourlibrary.ca/), 2018
-3. [Mavo: Full Featured Websites Without Writing JavaScript](https://www.youtube.com/watch?v=8PQcOt5QOnw), Code and Coffee, [Richmond Public Library](https://rpl.yourlibrary.ca), 2017
-4. Please Hold On, We Are Experiencing Technical Difficulties, Technology Training to Enhance Women's Safety, [BC Society of Transition Houses](http://bcsth.ca/), 2016
-5. Virtuous Cycles: Empowered Learners, Replicating Successful Learning Models, Creative Failure, [BC Libraries Conference](https://bclaconnect.ca/2015-conference/?page_id=336), 2015
-6. What to Expect After Graduation, SFU First-Year CS Students, 2013
-7. [Lightbeam AMA](https://www.reddit.com/r/IAmA/comments/1pbjtw/we_are_the_mozilla_team_who_have_been_working_on), Reddit, 2013
-8. [Lightbeam Launch Keynote](https://www.youtube.com/watch?v=nm-1KHSzAY8), MozFest, 2013
-9. [What's Next: Art and the Future Web](https://dethe.github.io/presentation/): Teaching design students to use the web as a medium of expression, Emily Carr University, 2013
-10. Should We Teach Children to Program Computers? [Rogue Curiousity](http://www.vancouverobserver.com/node/16712), 2013
-11. Webmaker Hack Jam, Mozilla Vancouver, 2013
-12. Mozilla Foundation Projects, Vancouver Maker Education Meetup, 2013
-13. Mozilla Foundation Projects, Vancouver Library Cooperative Open Data Camp, 2013
-14. Webmaker Tools, Vancouver Mini Maker Faire, 2013
-15. Collusion Update, Mozilla Summit, 2013
-16. Collusion Overview, Mozilla Foundation All-Hands, 2013
-17. A Morning Cup of Coffee (Interative Documentary), Tribeca Institute and Ford Foundation 2013
-18. [Collusion: What's coming in 1.0](https://popcorn.webmadecontent.org/11mv), Mozilla Air, 2013
-19. Waterbear: Visual Programming for the Web, MozFest 2012
-20. [Waterbear: Visual Programming for the Web](http://livingcode.org/slides/Waterbear_VanJS/), VanJS 2011
-21. Introducing Waterbear, JSConf 2011
-22. Social Networking for Small Groups, Bar Camp 2008
-23. [Aesthetic Programming for Kids of all Ages](http://livingcode.org/assets/2008/aesthetic-programming-for-kids-of-all-ages.pdf) (pdf), Bar Camp 2008
-24. Visual Programming: Why it matters for Python, Vancouver Python Users Group (VanPyZ) 2008
-25. Other languages from a Pythonic point of view: Haskell, Ruby, Erlang, Processing (with Paul Prescod and Brett Cannon), VanPyZ 2007
-26. Take control of your computer with Python and OS X, Bar Camp Vancouver 2007
-27. Programming OS X with Python, VanPyZ, 2006
-28. OS X, Python, and Kids, Vancouver Python Workshop 2006
-29. Community Building with Blogs (with Nancy White), Moose Camp/Northern Voice 2006
-30. [Using Python and Cocoa on OS X](http://livingcode.org/slides/cocoa.html), VanPyZ, 2005
-31. [Creating OS X Cocoa Applications Using XML and Python](http://livingcode.org/slides/renaissance.html), Vancouver XML Users' Group 2004
-32. PyGame: Implementing the big ideas from little developers, Vancouver Python Workshop 2004
+1. [Uses of the Raspberry Pi](https://hackmd.io/@dethe/BJDPzjI3m#/), Code Club, [Richmond Public Library](https://rpl.yourlibrary.ca/), 2018
+1. [Mavo: Full Featured Websites Without Writing JavaScript](https://www.youtube.com/watch?v=8PQcOt5QOnw), Code and Coffee, [Richmond Public Library](https://rpl.yourlibrary.ca), 2017
+1. Please Hold On, We Are Experiencing Technical Difficulties, Technology Training to Enhance Women's Safety, [BC Society of Transition Houses](http://bcsth.ca/), 2016
+1. Virtuous Cycles: Empowered Learners, Replicating Successful Learning Models, Creative Failure, [BC Libraries Conference](https://bclaconnect.ca/2015-conference/?page_id=336), 2015
+1. What to Expect After Graduation, SFU First-Year CS Students, 2013
+1. [Lightbeam AMA](https://www.reddit.com/r/IAmA/comments/1pbjtw/we_are_the_mozilla_team_who_have_been_working_on), Reddit, 2013
+1. [Lightbeam Launch Keynote](https://www.youtube.com/watch?v=nm-1KHSzAY8), MozFest, 2013
+1. [What's Next: Art and the Future Web](https://dethe.github.io/presentation/): Teaching design students to use the web as a medium of expression, Emily Carr University, 2013
+1. Should We Teach Children to Program Computers? [Rogue Curiousity](http://www.vancouverobserver.com/node/16712), 2013
+1. Webmaker Hack Jam, Mozilla Vancouver, 2013
+1. Mozilla Foundation Projects, Vancouver Maker Education Meetup, 2013
+1. Mozilla Foundation Projects, Vancouver Library Cooperative Open Data Camp, 2013
+1. Webmaker Tools, Vancouver Mini Maker Faire, 2013
+1. Collusion Update, Mozilla Summit, 2013
+1. Collusion Overview, Mozilla Foundation All-Hands, 2013
+1. A Morning Cup of Coffee (Interative Documentary), Tribeca Institute and Ford Foundation 2013
+1. [Collusion: What's coming in 1.0](https://popcorn.webmadecontent.org/11mv), Mozilla Air, 2013
+1. Waterbear: Visual Programming for the Web, MozFest 2012
+1. [Waterbear: Visual Programming for the Web](http://livingcode.org/slides/Waterbear_VanJS/), VanJS 2011
+1. Introducing Waterbear, JSConf 2011
+1. Social Networking for Small Groups, Bar Camp 2008
+1. [Aesthetic Programming for Kids of all Ages](http://livingcode.org/assets/2008/aesthetic-programming-for-kids-of-all-ages.pdf) (pdf), Bar Camp 2008
+1. Visual Programming: Why it matters for Python, Vancouver Python Users Group (VanPyZ) 2008
+1. Other languages from a Pythonic point of view: Haskell, Ruby, Erlang, Processing (with Paul Prescod and Brett Cannon), VanPyZ 2007
+1. Take control of your computer with Python and OS X, Bar Camp Vancouver 2007
+1. Programming OS X with Python, VanPyZ, 2006
+1. OS X, Python, and Kids, Vancouver Python Workshop 2006
+1. Community Building with Blogs (with Nancy White), Moose Camp/Northern Voice 2006
+1. [Using Python and Cocoa on OS X](http://livingcode.org/slides/cocoa.html), VanPyZ, 2005
+1. [Creating OS X Cocoa Applications Using XML and Python](http://livingcode.org/slides/renaissance.html), Vancouver XML Users' Group 2004
+1. PyGame: Implementing the big ideas from little developers, Vancouver Python Workshop 2004
 
 ## PUBLICATIONS
 
-1. [Bloc](https://github.com/dethe/bloc) Improved (esp. for mobile) version of minimal block language used in 500 Lines book: 2020
 1. Book Review: [The Water Knife by Paolo Bacigalupi](https://www.richmond-news.com/opinion/columnists/book-review-when-the-water-is-gone-1.24114675) (Richmond News, 2020-04)
 1. Book Review: [Strange Practice by Vivian Shaw](https://www.richmond-news.com/opinion/columnists/book-review-who-will-protect-the-monsters-from-us-1.24098427) (Richmond News, 2020-03)
 1. Book Review: [Every Heart a Doorway by Seanan McGuire[(https://www.richmond-news.com/opinion/columnists/book-review-not-all-wardrobes-lead-to-narnia-1.24066989) (Richmond News, 2020-02)
@@ -293,7 +339,14 @@ Integrated XML-based collaboration technology (Distributed DOM) into existing xf
 
 ## PROJECTS
 
+1. [Escape the Library](https://launchpad.yourlibrary.ca/games/escape_the_library/) Text adventure game: 2021
+1. [Cody Vandango](https://launchpad.yourlibrary.ca/games/cv1_australia/) Teen Summer Reading Program Game, in 7 parts: 2021
+1. [Colour Vector Fields](https://colour-vector-fields.glitch.me/) Visualization using Perlin noise, vectors, animation: 2021
+1. [Posenet Video](https://p5-posenet-video.glitch.me/) Machine learning, video manipulation: 2020
+1. [JavaScript Text Adventure Game](https://js-text-adventure.glitch.me/) Tutorial for JavaScript for making a game: 2020
+1. [Covid Timekeeping](https://codepen.io/dethe/full/jOVOOZd) Tiny tool for tracking time during the pandemic
 1. [Sketchdance: Shimmy](https://glitch.com/~sd-shimmy) Simple animation tool for children: 2020
+1. [Bloc](https://github.com/dethe/bloc) Improved (esp. for mobile) version of minimal block language used in 500 Lines book: 2020
 1. [Sketchdance: Moat](https://glitch.com/~sd-moat) Secure file sharing for library programs: 2019
 1. [Sketchdance: Garden](https://glitch.com/~sd-garden) Collaborative (in both creation and play) text adventure creation tool: 2019
 1. [Magic 8 Ball](https://codepen.io/dethe/pen/abbePQO) JavaScript demo project: 2019
@@ -327,8 +380,8 @@ Integrated XML-based collaboration technology (Distributed DOM) into existing xf
 
 ## OTHER ACHIEVEMENTS
 
-1. Raised over \$1000 for Children's Hospital "Balding for Dollars" 2009
-1. Conceived of and implemented Distributed DOM (DDOM), 2 patents granted, one still pending on this technology, 2001-2004
+1. Raised over $1000 for Children's Hospital "Balding for Dollars" 2009
+1. Conceived of and implemented Distributed DOM (DDOM), several patents granted, others still pending on this technology, 2001-2004
 1. J. Langdon Taylor Scholarship, 1994
 1. Computer Science Club Scholarship, 1994
 

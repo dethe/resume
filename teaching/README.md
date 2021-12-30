@@ -15,6 +15,8 @@ To work at the intersection of learning and tech, helping people to use, rather 
 
 ## Summary
 
+Overall, my career has been balanced between technology and communication, often in leadership roles. I am very good at communicating technology issues in non-technical terms and teaching complex concepts.
+
 I introduced and taught a class in Web Design in 1996 through Ohio University's Continuing Education program. In 1997 I was a monthly guest on WOUB, the univerity radio station, on the Art of Conversation show, where I would explain technical issues in plain language. From 2000 to 2002 I taught Intro to XML and XML Programming in the University of British Columbia's certificate program.
 
 I have mentored for Ladies Learning Code and Mozilla's Software Carpentry. I co-taught (with Amber Frid-Jimenez) The Web as a Medium of Expression, a course we introduced at Emily Carr University to introduce design students to programming, and where we introduced them to HTML, CSS, SVG, and JavaScript and took them through to building interative visualizations pulling down data from the web by the end of the term.
@@ -23,7 +25,7 @@ For three terms I have mentored 3-10 students per term with Undergraduate Capsto
 
 I am the co-host and organizer for the Maker Education Salon, a partnership between Vancouver Maker Faire and Mozilla Hive, which brings educators, librarians, parents, community organizers, makers, and kids together on a quarterly basis, with an annual "Pop-Up" event. This helps all the local folks involved in making and education to learn about each other and build connections.
 
-I am currently seeking a new challenge and would love to pass on the lessons I've learned from 20+ years in the tech industry, working for companies large and small. My full technical experience can be found [here](https:https://dethe.github.io/resume/).
+I enjoy new challenges and love to pass on the lessons I've learned from 20+ years in the tech industry, working for companies large and small. My full technical experience can be found [here](https:https://dethe.github.io/resume/).
 
 ## Experience
 
@@ -33,7 +35,7 @@ I am currently seeking a new challenge and would love to pass on the lessons I'v
 - March 2018 - Present
 - Digital Services Technician
 
-Help people use the libraries tech services: 3D printers, multimedia digitization stations, scanners, Raspberry Pis, BBC Micro:bits, Makey-Makeys, Lego WeDo and Lego Mindstorms, and more.
+Help people use the libraries tech services: 3D printers, multimedia digitization stations, scanners, Raspberry Pis, BBC Micro:bits, Makey-Makeys, Lego WeDo and Lego Mindstorms, and more. Teach kids to make their own computer games. Run games that teach cooperation and teamwork.
 
 1. Pivot workshops and clubs to online during the Covid-19 pandemic
 1. Write Shimmy animation tool and built workshops around it
@@ -51,6 +53,7 @@ Help people use the libraries tech services: 3D printers, multimedia digitizatio
 12. Co-teach Computer Basics for Seniors
 13. Help organize community partner events like RoboSports and Under The GUI
 
+
 ### British Columbia Institute of Technology
 
 - Burnaby, BC
@@ -60,6 +63,7 @@ Help people use the libraries tech services: 3D printers, multimedia digitizatio
 Teaching Management Information Systems to both full-time and part-time classes.
 
 1. Built lab exercises based on real-world databases, networks, security issues
+2. Teach Excel and database programming
 
 ### Participedia
 
