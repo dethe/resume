@@ -1,10 +1,8 @@
 # Dethe Elza
 
-- dethe@livingcode.org
+- dethe.elza@gmail.com
 - Vancouver, BC, Canada
 - [GitHub](https://github.com/dethe/)
-- [Blog](http://livingcode.org/)
-- [Twitter](https://twitter.com/dethe)
 - [Waterbear](http://waterbearlang.com/)
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-4422-5928" href="https://orcid.org/0000-0002-4422-5928" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-4422-5928</a></div>
@@ -23,9 +21,11 @@ I have mentored for Ladies Learning Code and Mozilla's Software Carpentry. I co-
 
 For three terms I have mentored 3-10 students per term with Undergraduate Capstone Open Source Projects, with the students working on Waterbear, an open source project I lead to make it easier to learn programming. This is an intensive program with weekly reports and meetings, where the students are expected to put in at least 10 hours a week filing and fixing bugs, implementing new features, and working on a larger term project.
 
-I am the co-host and organizer for the Maker Education Salon, a partnership between Vancouver Maker Faire and Mozilla Hive, which brings educators, librarians, parents, community organizers, makers, and kids together on a quarterly basis, with an annual "Pop-Up" event. This helps all the local folks involved in making and education to learn about each other and build connections.
+I was the long-time co-host and organizer for the Maker Education Salon, a partnership between Vancouver Maker Faire and Mozilla Hive, which brings educators, librarians, parents, community organizers, makers, and kids together on a quarterly basis, with an annual "Pop-Up" event. This helps all the local folks involved in making and education to learn about each other and build connections.
 
-I enjoy new challenges and love to pass on the lessons I've learned from 20+ years in the tech industry, working for companies large and small. My full technical experience can be found [here](https:https://dethe.github.io/resume/).
+I enjoy new challenges and love to pass on the lessons I've learned from 20+ years in the tech industry, working for companies large and small. My full technical experience can be found [here](https:https://dethe.github.io/resume/). But more than that I love helping people understand technology and to use it for creativity and fun.
+
+In my spare time, in addition to working on my open source projects and mentoring, I like to play ukulele, knit, and I've written a trilogy of young adult novels that I'm trying to publish.
 
 ## Experience
 
@@ -35,14 +35,14 @@ I enjoy new challenges and love to pass on the lessons I've learned from 20+ yea
 - March 2018 - Present
 - Digital Services Technician
 
-Help people use the libraries tech services: 3D printers, multimedia digitization stations, scanners, Raspberry Pis, BBC Micro:bits, Makey-Makeys, Lego WeDo and Lego Mindstorms, and more. Teach kids to make their own computer games. Run games that teach cooperation and teamwork.
+Help people use the libraries tech services: 3D printers, Cricut cutter, multimedia digitization stations, scanners, Raspberry Pis, BBC Micro:bits, Makey-Makeys, Lego WeDo and Lego Mindstorms, and more. Teach kids to make their own computer games. Run games that teach cooperation and teamwork.
 
-1. Pivot workshops and clubs to online during the Covid-19 pandemic
+1. Pivot workshops and clubs to online during the Covid-19 pandemic and then back again
 1. Write Shimmy animation tool and built workshops around it
 1. Write Moat private file sharing server
 2. Write multiple games as examples
 3. Introduce and lead Code Clubs weekly for kids, teens, and adults/seniors
-4. Lead tabletop role playing games for pre-teens
+4. Lead tabletop role playing games for pre-teens, teens, and adults
 5. Teach Intro to HTML and CSS
 6. Run Minecraft Club for 6+ year olds, set up and maintain server
 7. Help organize quarterly Maker Expo events: one for students, one for fashion, one for healthcare, one for science.
@@ -52,7 +52,8 @@ Help people use the libraries tech services: 3D printers, multimedia digitizatio
 11. Teach Game Programming with Pico-8 (parent/child workshop)
 12. Co-teach Computer Basics for Seniors
 13. Help organize community partner events like RoboSports and Under The GUI
-
+15. Setup and build programs around the library's laser cutter
+16. Run weekly sessions of interactive videos for the public to participate with
 
 ### British Columbia Institute of Technology
 
@@ -175,7 +176,7 @@ Co-created and co-taught web technologies and programming to design students, ta
 1. Paper (co-author): [Designing Participedia: A Collaborative Research Platform](https://dl.acm.org/doi/10.1145/3384772.3385125) (PDC '20: Proceedings of the 16th Participatory Design Conference 2020 - Participation(s) Otherwise - Volume 2, 2020-06)
 2. Book Review: [The Water Knife by Paolo Bacigalupi](https://www.richmond-news.com/opinion/columnists/book-review-when-the-water-is-gone-1.24114675) (Richmond News, 2020-04)
 3. Book Review: [Strange Practice by Vivian Shaw](https://www.richmond-news.com/opinion/columnists/book-review-who-will-protect-the-monsters-from-us-1.24098427) (Richmond News, 2020-03)
-4. Book Review: [Every Heart a Doorway by Seanan McGuire[(https://www.richmond-news.com/opinion/columnists/book-review-not-all-wardrobes-lead-to-narnia-1.24066989) (Richmond News, 2020-02)
+4. Book Review: [Every Heart a Doorway by Seanan McGuire](https://www.richmond-news.com/opinion/columnists/book-review-not-all-wardrobes-lead-to-narnia-1.24066989) (Richmond News, 2020-02)
 5. Book Review: [Meddling Kids by Edgar Cantero](https://www.richmond-news.com/opinion/columnists/book-review-struggles-of-child-detectives-1.24039994), (Richmond News, 209-12)
 6. Book Review: [Trail of Lightning by Rebecca Roanhorse](https://www.richmond-news.com/opinion/columnists/book-review-the-one-person-monsters-are-scared-of-1.24002372), (Richmond News, 2019-11)
 7. Blockcode (chapter): 500 Lines or Less: Architecture of Open Source, Vol. 4 ([AOSA Books](http://aosabook.org), 2016)
@@ -222,7 +223,7 @@ Co-created and co-taught web technologies and programming to design students, ta
 1. [Imagetoy](https://dethe.github.io/imagetoy/): 2014
 1. [Life](https://dethe.github.io/life/): Conway's Game of Life in the canvas: 2014
 1. [Drawing Board Revisited](https://dethe.github.io/drawingboard/): Rewriting the Drawing Board app for the web: 2014
-1. [Hexaflexagon builder](https://dethe.github.io/flexagon/): Web-to-papertoy tool for Open Badges: 2013
+1. [Hexaflexagon builder](https://dethe.github.io/flexagon/): Customizable web-to-paper toy: 2013, heavily revised 2022
 1. [Baffle](https://dethe.github.io/baffle/): Word game for mobile browsers: 2013
 1. [Paley Tiles](https://dethe.github.io/paleytiles/): Animation tool based on work by Nina Paley: 2013
 1. [Beehive](https://dethe.github.io/beehive/): A simple test of hexagon web layout: 2012
