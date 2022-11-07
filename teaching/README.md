@@ -209,8 +209,10 @@ Co-created and co-taught web technologies and programming to design students, ta
 
 ## PROJECTS
 
-1. [Waterbear Next](https://github.com/waterbearlang/waterbearnext/) Re-working of Waterbear visual programming language to fix long-standing issues: 2020 (very preliminatry, ongoing)
-1. [Moonshine](https://github.com/waterbearlang/moonshine/) Text language for visual programming: 2020 (very preliminatry, ongoing)
+1. [TurtleLang](https://glitch.com/edit/#!/turtlelang) Text-based language to complement Bloc and demonstrate parsing using Ohm: 2022
+1. [Spectrescope](https://glitch.com/edit/#!/spectreoscope) Halloween project to see the ghost inside of you: 2022
+1. [Waterbear Next](https://github.com/waterbearlang/waterbearnext/) Re-working of Waterbear visual programming language to fix long-standing issues: 2022 (very preliminatry, ongoing)
+1. [Moonshine](https://github.com/waterbearlang/moonshine/) Text language for visual programming: 2022 (very preliminatry, ongoing)
 1. [Bloc](https://github.com/dethe/bloc) Improved (esp. for mobile) version of minimal block language used in 500 Lines book: 2020
 1. [Sketchdance: Shimmy](https://glitch.com/~sd-shimmy) Simple animation tool for children: 2020
 1. [Sketchdance: Moat](https://glitch.com/~sd-moat) Secure file sharing for library programs: 2019
