@@ -9,7 +9,7 @@
 
 ## Goal
 
-To work at the intersection of learning and tech, helping people to use, rather than be used by, computers and technology.
+To work at the intersection of learning and tech, helping people to use, rather than be used by, computers and technology. Teaching digital literacy to enable learners to use technology to tell their own stories.
 
 ## Summary
 
@@ -32,7 +32,7 @@ In my spare time, in addition to working on my open source projects and mentorin
 ### Richmond Public Library
 
 - Richmond, BC
-- March 2018 - Present
+- March 2018 - May 2023
 - Digital Services Technician
 
 Help people use the libraries tech services: 3D printers, Cricut cutter, multimedia digitization stations, scanners, Raspberry Pis, BBC Micro:bits, Makey-Makeys, Lego WeDo and Lego Mindstorms, and more. Teach kids to make their own computer games. Run games that teach cooperation and teamwork.
@@ -40,20 +40,20 @@ Help people use the libraries tech services: 3D printers, Cricut cutter, multime
 1. Pivot workshops and clubs to online during the Covid-19 pandemic and then back again
 1. Write Shimmy animation tool and built workshops around it
 1. Write Moat private file sharing server
-2. Write multiple games as examples
-3. Introduce and lead Code Clubs weekly for kids, teens, and adults/seniors
-4. Lead tabletop role playing games for pre-teens, teens, and adults
-5. Teach Intro to HTML and CSS
-6. Run Minecraft Club for 6+ year olds, set up and maintain server
-7. Help organize quarterly Maker Expo events: one for students, one for fashion, one for healthcare, one for science.
-8. Organize Processing Community Days
-9. Write web apps and AR to support teen summer reading programs
-10. Co-teach Text Adventure Game course, creating a collaborative text adventure webapp
-11. Teach Game Programming with Pico-8 (parent/child workshop)
-12. Co-teach Computer Basics for Seniors
-13. Help organize community partner events like RoboSports and Under The GUI
-15. Setup and build programs around the library's laser cutter
-16. Run weekly sessions of interactive videos for the public to participate with
+1. Write multiple games as examples
+1. Introduce and lead Code Clubs weekly for kids, teens, and adults/seniors
+1. Lead tabletop role playing games for pre-teens, teens, and adults
+1. Teach Intro to HTML and CSS
+1. Run Minecraft Club for 6+ year olds, set up and maintain server
+1. Help organize quarterly Maker Expo events: one for students, one for fashion, one for healthcare, one for science.
+1. Organize Processing Community Days
+1. Write web apps and AR to support teen summer reading programs
+1. Co-teach Text Adventure Game course, creating a collaborative text adventure webapp
+1. Teach Game Programming with Pico-8 (parent/child workshop)
+1. Co-teach Computer Basics for Seniors
+1. Help organize community partner events like RoboSports and Under The GUI
+1. Setup and build programs around the library's laser cutter
+1. Run weekly sessions of interactive videos for the public to participate with
 
 ### British Columbia Institute of Technology
 
@@ -174,20 +174,20 @@ Co-created and co-taught web technologies and programming to design students, ta
 1. Chapter (co-author): [DuBot: An Open-Source, Low-Cost Robot for STEM and Educational Robotics](https://www.igi-global.com/book/handbook-research-using-educational-robotics/256642) (Handbook of Research on Using Educational Robotics to Facilitate Student Learning, 2021)
 1. Book Review: [How Long 'Til Black Future Month?](https://www.richmond-news.com/opinion/book-review-far-flung-journeys-in-imagination-3200313) (Richmond News, 2020-12)
 1. Paper (co-author): [Designing Participedia: A Collaborative Research Platform](https://dl.acm.org/doi/10.1145/3384772.3385125) (PDC '20: Proceedings of the 16th Participatory Design Conference 2020 - Participation(s) Otherwise - Volume 2, 2020-06)
-2. Book Review: [The Water Knife by Paolo Bacigalupi](https://www.richmond-news.com/opinion/columnists/book-review-when-the-water-is-gone-1.24114675) (Richmond News, 2020-04)
-3. Book Review: [Strange Practice by Vivian Shaw](https://www.richmond-news.com/opinion/columnists/book-review-who-will-protect-the-monsters-from-us-1.24098427) (Richmond News, 2020-03)
-4. Book Review: [Every Heart a Doorway by Seanan McGuire](https://www.richmond-news.com/opinion/columnists/book-review-not-all-wardrobes-lead-to-narnia-1.24066989) (Richmond News, 2020-02)
-5. Book Review: [Meddling Kids by Edgar Cantero](https://www.richmond-news.com/opinion/columnists/book-review-struggles-of-child-detectives-1.24039994), (Richmond News, 209-12)
-6. Book Review: [Trail of Lightning by Rebecca Roanhorse](https://www.richmond-news.com/opinion/columnists/book-review-the-one-person-monsters-are-scared-of-1.24002372), (Richmond News, 2019-11)
-7. Blockcode (chapter): 500 Lines or Less: Architecture of Open Source, Vol. 4 ([AOSA Books](http://aosabook.org), 2016)
-8. XML Matters: [Lighter than Microformats: Picoformats](https://web.archive.org/web/20060820183617/http://www-128.ibm.com/developerworks/library/x-matters46/) (IBM developerWorks, 2006-08)
-9. XML Matters: [Up and Atom](https://web.archive.org/web/20060701221036/http://www-128.ibm.com/developerworks/xml/library/x-matters45.html) (IBM developerWorks, proposal accepted, 2006-05)
-10. XML Matters: [Pipestreaming Microformats](https://web.archive.org/web/20061231011209/http://www-128.ibm.com/developerworks/xml/library/x-matters44.html) (IBM developerWorks, 2006-04)
-11. XML Matters: [The web, it ain't just for 2D anymore](https://web.archive.org/web/20051218034517/http://www-128.ibm.com/developerworks/web/library/x-matters43/index.html) (IBM developerWorks, 2005-06)
-12. XML Matters: [SVG and the Scriptless Script](http://www.ibm.com/developerworks/library/x-matters42/) (IBM developerWorks, 2006-06)
-13. XML Matters: [Beyond the DOM](https://web.archive.org/web/20060705000433/http://www-128.ibm.com/developerworks/xml/library/x-matters41.html) (IBM developerWorks, 2006-06)
-14. Python Cookbook 2nd Ed.: Building a Python Cocoa GUI Programatically (O'Reilly, 2005-03)
-15. [Browser Evolution: Document Access on the World Wide Web](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.4.4604) (Master's Thesis 1998-03)
+1. Book Review: [The Water Knife by Paolo Bacigalupi](https://www.richmond-news.com/opinion/columnists/book-review-when-the-water-is-gone-1.24114675) (Richmond News, 2020-04)
+1. Book Review: [Strange Practice by Vivian Shaw](https://www.richmond-news.com/opinion/columnists/book-review-who-will-protect-the-monsters-from-us-1.24098427) (Richmond News, 2020-03)
+1. Book Review: [Every Heart a Doorway by Seanan McGuire](https://www.richmond-news.com/opinion/columnists/book-review-not-all-wardrobes-lead-to-narnia-1.24066989) (Richmond News, 2020-02)
+1. Book Review: [Meddling Kids by Edgar Cantero](https://www.richmond-news.com/opinion/columnists/book-review-struggles-of-child-detectives-1.24039994), (Richmond News, 209-12)
+1. Book Review: [Trail of Lightning by Rebecca Roanhorse](https://www.richmond-news.com/opinion/columnists/book-review-the-one-person-monsters-are-scared-of-1.24002372), (Richmond News, 2019-11)
+1. Blockcode (chapter): 500 Lines or Less: Architecture of Open Source, Vol. 4 ([AOSA Books](http://aosabook.org), 2016)
+1. XML Matters: [Lighter than Microformats: Picoformats](https://web.archive.org/web/20060820183617/http://www-128.ibm.com/developerworks/library/x-matters46/) (IBM developerWorks, 2006-08)
+1. XML Matters: [Up and Atom](https://web.archive.org/web/20060701221036/http://www-128.ibm.com/developerworks/xml/library/x-matters45.html) (IBM developerWorks, proposal accepted, 2006-05)
+1. XML Matters: [Pipestreaming Microformats](https://web.archive.org/web/20061231011209/http://www-128.ibm.com/developerworks/xml/library/x-matters44.html) (IBM developerWorks, 2006-04)
+1. XML Matters: [The web, it ain't just for 2D anymore](https://web.archive.org/web/20051218034517/http://www-128.ibm.com/developerworks/web/library/x-matters43/index.html) (IBM developerWorks, 2005-06)
+1. XML Matters: [SVG and the Scriptless Script](http://www.ibm.com/developerworks/library/x-matters42/) (IBM developerWorks, 2006-06)
+1. XML Matters: [Beyond the DOM](https://web.archive.org/web/20060705000433/http://www-128.ibm.com/developerworks/xml/library/x-matters41.html) (IBM developerWorks, 2006-06)
+1. Python Cookbook 2nd Ed.: Building a Python Cocoa GUI Programatically (O'Reilly, 2005-03)
+1. [Browser Evolution: Document Access on the World Wide Web](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.4.4604) (Master's Thesis 1998-03)
 
 ## Video Tutorials
 
@@ -202,10 +202,10 @@ Co-created and co-taught web technologies and programming to design students, ta
 1. [Programming for Fun with Scratch, episode 6](https://www.youtube.com/watch?v=5g6DDfoPALI) Build Asteroids and look at advanced movement techniques, 2021-04
 1. [Kids can play tabletop games online, episode 1](https://www.youtube.com/watch?v=lygWjj8u3kw) Getting started with tabletop role-playing games for free or cheap, 2021-03
 1. [Kids can play tabletop games online, episdoe 2](https://www.youtube.com/watch?v=bVbd2AlWz5A) Online privacy and safety for kids 9-12, 2021-03
-2. [Kids can play tabletop games online, episode 3](https://www.youtube.com/watch?v=oFCPyWb_448) Role-playing games that are fun for kids 4 and up, and the whole family, 2021-03
+1. [Kids can play tabletop games online, episode 3](https://www.youtube.com/watch?v=oFCPyWb_448) Role-playing games that are fun for kids 4 and up, and the whole family, 2021-03
 1. [Kids can play tabletop games online, episode 4](https://www.youtube.com/watch?v=QjNMstIr5eI) Resources to help run a game without a lot of preparation, 2021-04
 1. [Kids can play tabletop games online, episode 5](https://www.youtube.com/watch?v=5fY2S7Qe_wc) How to use pre-written modules and other resources to get started quickly, 2021-04
-1. [At your library you can...  ...write a pick-your-path adventure!](https://www.youtube.com/watch?v=PVogMgROIBc) 2021-04
+1. [At your library you can... ...write a pick-your-path adventure!](https://www.youtube.com/watch?v=PVogMgROIBc) 2021-04
 
 ## PROJECTS
 

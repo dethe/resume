@@ -28,7 +28,7 @@ I enjoy new challenges and love to pass on the lessons I've learned from 20+ yea
 ### Richmond Public Library
 
 - Richmond, BC
-- March 2018 - Present
+- March 2018 - May 2023
 - Digital Services Technician
 
 Help people use the libraries tech services: 3D printers, multimedia digitization stations, scanners, Raspberry Pis, BBC Micro:bits, Makey-Makeys, Lego WeDo and Lego Mindstorms, and more. Teach children aged 6-17 to make their own computer games. Run games that teach cooperation and teamwork.
